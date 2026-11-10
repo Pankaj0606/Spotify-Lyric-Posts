@@ -1,0 +1,10 @@
+venv/
+output/
+credentials.json
+config/credentials.json
+.env
+__pycache__/
+*.pyc
+*.jpg
+*.png
+.DS_Store
